@@ -1,4 +1,4 @@
-package com.movie_master.moviemaster.presentation.details_screen.details_screen_components.details_screen_header.review_list
+package com.movie_master.moviemaster.presentation.details_screen.details_screen_components.review_list
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.basicMarquee
@@ -22,7 +22,7 @@ import com.movie_master.moviemaster.data.details_screen_data.details_screen_colo
 import com.movie_master.moviemaster.data.details_screen_data.details_screen_dimensions.DetailsScreenDimensions
 import com.movie_master.moviemaster.data.details_screen_data.details_screen_states.detailsScreenStates
 import com.movie_master.moviemaster.functionality.user_interface_operations.userInterfaceOperations
-import com.movie_master.moviemaster.presentation.details_screen.details_screen_components.details_screen_header.FullReviewDialog
+import com.movie_master.moviemaster.presentation.details_screen.details_screen_components.FullReviewDialog
 
 @Composable
 fun ReviewListItem(

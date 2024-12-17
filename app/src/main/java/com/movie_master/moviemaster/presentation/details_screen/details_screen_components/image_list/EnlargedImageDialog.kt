@@ -1,4 +1,4 @@
-package com.movie_master.moviemaster.presentation.details_screen.details_screen_components.details_screen_header.image_list
+package com.movie_master.moviemaster.presentation.details_screen.details_screen_components.image_list
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box

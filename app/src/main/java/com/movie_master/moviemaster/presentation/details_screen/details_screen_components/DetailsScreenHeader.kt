@@ -1,4 +1,4 @@
-package com.movie_master.moviemaster.presentation.details_screen.details_screen_components.details_screen_header.details_screen_header
+package com.movie_master.moviemaster.presentation.details_screen.details_screen_components
 
 import android.os.Build
 import androidx.annotation.RequiresExtension

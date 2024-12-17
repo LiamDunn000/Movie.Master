@@ -1,4 +1,4 @@
-package com.movie_master.moviemaster.presentation.details_screen.details_screen_components.details_screen_header.standard_details_list
+package com.movie_master.moviemaster.presentation.details_screen.details_screen_components.standard_details_list
 
 import android.os.Build
 import androidx.annotation.RequiresExtension
@@ -18,7 +18,7 @@ import com.movie_master.moviemaster.data.api_data.tv_series.tv_credits.TvSeriesC
 import com.movie_master.moviemaster.data.details_screen_data.details_screen_dimensions.DetailsScreenDimensions
 import com.movie_master.moviemaster.data.shared_data.sharedStates
 import com.movie_master.moviemaster.functionality.user_interface_operations.userInterfaceOperations
-import com.movie_master.moviemaster.presentation.details_screen.details_screen_components.details_screen_header.DetailsScreenCategoryHeader
+import com.movie_master.moviemaster.presentation.details_screen.details_screen_components.DetailsScreenCategoryHeader
 
 @RequiresExtension(extension = Build.VERSION_CODES.S, version = 7)
 @Composable

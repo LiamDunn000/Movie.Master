@@ -1,4 +1,4 @@
-package com.movie_master.moviemaster.presentation.details_screen.details_screen_components.details_screen_header
+package com.movie_master.moviemaster.presentation.details_screen.details_screen_components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
